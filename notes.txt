@@ -1,0 +1,6 @@
+Date: 06/11/2024
+Project_Name: Password Generator
+Concepts: For Loops and Code Blocks
+Challenges: -
+Difficulty_Level: Easy
+Time: 25min
